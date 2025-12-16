@@ -19,6 +19,9 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 .gradle-user-home/
 
+# Local env
+.env
+
 # Spring / logs
 logs/
 *.log

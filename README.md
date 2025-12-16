@@ -8,5 +8,6 @@
 ## 실행
 
 ```bash
+make db-up
 make run
 ```
